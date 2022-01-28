@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body>
+<?php 
+$leeftijd = "16";
+echo $tekst;
 
-<?php
-
+$melk = "1.50";
+echo $tekst;
 ?>
 
 </body>
