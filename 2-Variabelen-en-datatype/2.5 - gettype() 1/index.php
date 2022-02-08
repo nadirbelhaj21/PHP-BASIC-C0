@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+
+</head>
 <body>
-
-<?php
-
-?>
-
+    <?php
+    $naam = "Tom";
+    echo gettype($naam);
+    ?>
 </body>
-</html> 
+</html>

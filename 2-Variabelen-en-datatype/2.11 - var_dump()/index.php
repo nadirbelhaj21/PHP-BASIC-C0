@@ -3,6 +3,8 @@
 <body>
 
 <?php
+$waarde = "ik heet Nadir";
+var_dump($waarde);
 
 ?>
 

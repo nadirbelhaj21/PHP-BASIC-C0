@@ -3,7 +3,7 @@
 <body>
 
 <?php
-
+include 'includes/menu.php';
 ?>
 
 </body>
